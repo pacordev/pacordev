@@ -2,10 +2,11 @@
   <img height="160" src="https://i.postimg.cc/SxDZRGpn/i-want-out.png"  width="35%"/>
 </div>
 
-###
-
+## 🌐 Socials:
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/francisco-rivera-3451a831/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
+</a>
 </div>
 
 ###
@@ -29,8 +30,10 @@
 ###
 
 <div align="left">
+  <a href="https://www.python.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <a href="https://fastapi.tiangolo.com/" target="_blank">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
